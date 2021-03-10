@@ -1,3 +1,10 @@
+//Can you write a function that takes two arrays as inputs and returns to us their intersection? 
+//We can call the method intersection. Let's return the intersection of the two inputs in the form of an array.
+//As a reminder, the definition of an intersection of two sets A and B is the 
+//set containing all elements of A that also belong to B (or equivalently, all elements of B that also belong to A).
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
