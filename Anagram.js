@@ -3,6 +3,8 @@
 
 
 
+
+
 function isAnagram(str1,str2)
 {
    let a = str1.toLowerCase();
@@ -10,7 +12,6 @@ function isAnagram(str1,str2)
 
    a = a.split("").sort().join("");
    b = b.split("").sort().join("");
-
 
    return a===b;
 }
